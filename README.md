@@ -1,2 +1,2 @@
-# eoweb.cdn
-EARTHONWEB CONTENT DELIVERY SYSTEM
+# Hello There!
+This CDN runs the EarthOnWeb website!
